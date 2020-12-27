@@ -7,9 +7,9 @@
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
 /******/ (() => { // webpackBootstrap
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
-eval("﻿console.log(\"Hola mundo!!!\");\r\n\n\n//# sourceURL=webpack://webapp/./src/index.js?");
+/*!******************************!*\
+  !*** ./src/Shared/layout.js ***!
+  \******************************/
+eval("\n\n//# sourceURL=webpack://webapp/./src/Shared/layout.js?");
 /******/ })()
 ;
